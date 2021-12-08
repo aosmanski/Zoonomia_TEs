@@ -3,7 +3,7 @@ Scripts and pipelines associated with the submitted publication: Osmanski et al.
 
 
 
-### template_RM_slurmC8.sh
+### > template_RM_slurmC8.sh
 Pipeline used to run RepeatMasker on all zoonomia assemblies
 
 
